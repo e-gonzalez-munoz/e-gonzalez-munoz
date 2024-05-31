@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a film database app using Python**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python**, React and TypeScript**
 
 - 💬 Ask me about **Javascript, Tailwind**
 
